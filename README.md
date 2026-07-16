@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cat-banner.svg" alt="Two cozy cats resting beside a keyboard" width="100%" />
+  <img src="./assets/banner.png" alt="Two cozy cats resting beside a keyboard" width="100%" />
 
   # Hi, I'm Jacey24 🐾
 
