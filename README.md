@@ -21,19 +21,8 @@
 
 ### GitHub activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jacey24&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jacey24&show_icons=true&hide_border=true&theme=buefy&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacey24&show_icons=true&hide_border=true&theme=buefy&rank_icon=github" alt="Jacey24's GitHub stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacey24&layout=compact&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacey24&layout=compact&hide_border=true&theme=buefy" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacey24&layout=compact&hide_border=true&theme=buefy" alt="Most used languages" />
-  </picture>
-</div>
+- 📚 [查看我的公开仓库](https://github.com/Jacey24?tab=repositories)
+- 🌱 [查看我的贡献记录](https://github.com/Jacey24)
 
 <details>
   <summary><strong>Cat corner</strong> 🐱</summary>
